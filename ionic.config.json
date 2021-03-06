@@ -1,0 +1,7 @@
+{
+  "name": "dingybot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
