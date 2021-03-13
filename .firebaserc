@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "nadaktoolkit"
+  },
+  "targets": {
+    "nadaktoolkit": {
+      "hosting": {
+        "ndkpixie": [
+          "ndkpixie"
+        ]
+      }
+    }
+  }
+}
